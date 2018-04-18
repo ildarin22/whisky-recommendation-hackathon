@@ -5,8 +5,8 @@ For a Microsoft hackathon, our project was a whiskey recommendation engine with 
 * "Would I like this" bottle/distillery
 
 For this project, we used a number of [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/), such as:
-* (Bing Image Search)[https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/]
-* (Custom Vision Service)[https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/]
+* [Bing Image Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
+* [Custom Vision Service](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)
 
 ## Source data
 
