@@ -2,10 +2,11 @@ import requests
 import pprint
 import os
 import csv
+import sys
 import urllib.request
 
 scotch_csv = sys.argv[1]
-subscription_key = sys.argv[1]
+subscription_key = sys.argv[2]
 search_url = "https://api.cognitive.microsoft.com/bing/v7.0/images/search"
 
 scotch_list = []
